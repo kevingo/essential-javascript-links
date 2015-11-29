@@ -234,6 +234,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 ## QA / Deployment / Monitoring / CI
 
 * [PM2](https://github.com/Unitech/pm2) Process monitoring / self repair
+* [Forever](https://github.com/foreverjs/forever) A simple CLI tool for ensuring that a given script runs continuously
 * [Pingdom](https://www.pingdom.com) Response monitoring and alert management (because incidents happen).
 * [New Relic](http://newrelic.com/) Deep insights into the performance and health of your production apps
 * [Sauce Labs](https://saucelabs.com/) Cross platform web application testing with great collaboration and integration support
